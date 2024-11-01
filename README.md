@@ -1,10 +1,5 @@
 # x-ray_scripting_out
 
-```
-    Date: 06.07.22
-    Author: Carlos Andrés Ortiz-Mahecha
-
-```
 [comment]: <> (****)
 [comment]: <> (First version: 20.03.23)
 [comment]: <> (comment:)
@@ -67,3 +62,10 @@ More information about the running in `example/readme.md`
 * awk
 * sed
 * vim
+
+
+```
+    Date: 06.07.22
+    Author: Carlos Andrés Ortiz-Mahecha
+
+```
